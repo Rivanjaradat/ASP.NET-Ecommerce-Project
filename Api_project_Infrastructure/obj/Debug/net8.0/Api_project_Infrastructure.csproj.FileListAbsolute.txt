@@ -1,0 +1,17 @@
+D:\reev\training\fullstack\backend\API\Api_project\Api_project_Infrastructure\bin\Debug\net8.0\Api_project_Infrastructure.deps.json
+D:\reev\training\fullstack\backend\API\Api_project\Api_project_Infrastructure\bin\Debug\net8.0\Api_project_Infrastructure.runtimeconfig.json
+D:\reev\training\fullstack\backend\API\Api_project\Api_project_Infrastructure\bin\Debug\net8.0\Api_project_Infrastructure.dll
+D:\reev\training\fullstack\backend\API\Api_project\Api_project_Infrastructure\bin\Debug\net8.0\Api_project_Infrastructure.pdb
+D:\reev\training\fullstack\backend\API\Api_project\Api_project_Infrastructure\bin\Debug\net8.0\Api_project_core.dll
+D:\reev\training\fullstack\backend\API\Api_project\Api_project_Infrastructure\bin\Debug\net8.0\Api_project_core.pdb
+D:\reev\training\fullstack\backend\API\Api_project\Api_project_Infrastructure\obj\Debug\net8.0\Api_project_Infrastructure.csproj.AssemblyReference.cache
+D:\reev\training\fullstack\backend\API\Api_project\Api_project_Infrastructure\obj\Debug\net8.0\Api_project_Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\reev\training\fullstack\backend\API\Api_project\Api_project_Infrastructure\obj\Debug\net8.0\Api_project_Infrastructure.AssemblyInfoInputs.cache
+D:\reev\training\fullstack\backend\API\Api_project\Api_project_Infrastructure\obj\Debug\net8.0\Api_project_Infrastructure.AssemblyInfo.cs
+D:\reev\training\fullstack\backend\API\Api_project\Api_project_Infrastructure\obj\Debug\net8.0\Api_project_Infrastructure.csproj.CoreCompileInputs.cache
+D:\reev\training\fullstack\backend\API\Api_project\Api_project_Infrastructure\obj\Debug\net8.0\Api_proj.B429E414.Up2Date
+D:\reev\training\fullstack\backend\API\Api_project\Api_project_Infrastructure\obj\Debug\net8.0\Api_project_Infrastructure.dll
+D:\reev\training\fullstack\backend\API\Api_project\Api_project_Infrastructure\obj\Debug\net8.0\refint\Api_project_Infrastructure.dll
+D:\reev\training\fullstack\backend\API\Api_project\Api_project_Infrastructure\obj\Debug\net8.0\Api_project_Infrastructure.pdb
+D:\reev\training\fullstack\backend\API\Api_project\Api_project_Infrastructure\obj\Debug\net8.0\Api_project_Infrastructure.genruntimeconfig.cache
+D:\reev\training\fullstack\backend\API\Api_project\Api_project_Infrastructure\obj\Debug\net8.0\ref\Api_project_Infrastructure.dll
