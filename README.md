@@ -1,5 +1,5 @@
 
-###E-Commerce Backend API
+##E-Commerce Backend API
 
 🔍 Description:This project is a fully functional E-Commerce Backend API built using ASP.NET Core with Onion Architecture. It provides a robust and scalable solution for managing products, inventory, shopping carts, orders, and user authentication using JWT. The project utilizes Entity Framework Core, ASP.NET Identity, Mapster for object mapping, and DTOs for efficient data transfer. Additionally, it follows Unit of Work and Repository Pattern to ensure maintainability and clean data access
 ## 🚀Features
